@@ -1,0 +1,11 @@
+experience,education,city,skills_score,salary
+1,Bachelor,Kathmandu,60,25000
+2,Bachelor,Pokhara,65,28000
+3,Master,Kathmandu,70,35000
+4,Master,Lalitpur,75,42000
+5,PhD,Kathmandu,80,52000
+6,Bachelor,,68,30000
+7,Master,Pokhara,,45000
+8,Bachelor,Lalitpur,72,
+9,PhD,Kathmandu,85,60000
+10,Master,Pokhara,78,50000
