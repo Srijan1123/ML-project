@@ -1,0 +1,30 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+
+s1,Movie,Inception,Christopher Nolan,Leonardo DiCaprio; Joseph Gordon-Levitt,United States,September 1, 2020,2010,PG-13,148 min,Sci-Fi; Thriller,A thief who steals corporate secrets through dream-sharing technology.
+
+s2,Movie,Interstellar,Christopher Nolan,Matthew McConaughey; Anne Hathaway,United States,March 5, 2021,2014,PG-13,169 min,Adventure; Sci-Fi,A team travels through a wormhole in space.
+
+s3,TV Show,Stranger Things,Duffer Brothers,Millie Bobby Brown; Finn Wolfhard,United States,July 15, 2016,2016,TV-14,4 Seasons,Horror; Drama,A group of kids uncover supernatural mysteries.
+
+s4,Movie,The Social Network,David Fincher,Jesse Eisenberg; Andrew Garfield,United States,November 12, 2022,2010,PG-13,120 min,Drama,Story of Facebook's founding.
+
+s5,Movie,Extraction,Sam Hargrave,Chris Hemsworth,United States,April 24, 2020,2020,R,117 min,Action; Thriller,A black-market mercenary is hired for a rescue mission.
+
+s6,TV Show,Money Heist,Álex Pina,Úrsula Corberó; Álvaro Morte,Spain,May 2, 2017,2017,TV-MA,5 Seasons,Crime; Thriller,A criminal mastermind leads a group to carry out heists.
+
+s7,TV Show,Dark,Baran bo Odar,Louis Hofmann,Germany,December 1, 2017,2017,TV-MA,3 Seasons,Sci-Fi; Thriller,A mystery spanning multiple timelines.
+
+s8,Movie,Avatar,James Cameron,Sam Worthington; Zoe Saldana,United States,January 10, 2020,2009,PG-13,162 min,Fantasy; Adventure,A paraplegic Marine dispatched to Pandora.
+
+s9,Movie,The Irishman,Martin Scorsese,Robert De Niro; Al Pacino,United States,November 1, 2019,2019,R,209 min,Crime; Drama,A mob hitman's recollection of past events.
+s10,TV Show,Lupin,George Kay,Omar Sy,France,January 8, 2021,2021,TV-MA,2 Seasons,Crime; Mystery,A gentleman thief inspired by Arsène Lupin.
+
+s11,Movie,Arrival,Denis Villeneuve,Amy Adams; Jeremy Renner,Canada,October 15, 2016,2016,PG-13,116 min,Sci-Fi; Drama,A linguist attempts to communicate with aliens.
+
+s12,Movie,Joker,Todd Phillips,Joaquin Phoenix,United States,October 2, 2019,2019,R,122 min,Crime; Drama,The origin of iconic villain Joker.
+
+s13,TV Show,Breaking Bad,Vince Gilligan,Bryan Cranston; Aaron Paul,United States,September 20, 2013,2008,TV-MA,5 Seasons,Crime; Drama,A chemistry teacher becomes a drug lord.
+
+s14,Movie,Titanic,James Cameron,Leonardo DiCaprio; Kate Winslet,United States,July 14, 2012,1997,PG-13,195 min,Romance; Drama,A romance aboard the doomed Titanic.
+
+s15,TV Show,Peaky Blinders,Steven Knight,Cillian Murphy,United Kingdom,March 15, 2013,2013,TV-MA,6 Seasons,Crime; Drama,A gang leader rises in 1919 Birmingham.
