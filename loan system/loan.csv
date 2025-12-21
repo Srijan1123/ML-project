@@ -1,0 +1,11 @@
+age,income,loan_years,credit_score,employment,city,loan_amount
+25,30000,2,650,Salaried,Kathmandu,400000
+30,45000,5,700,Salaried,Pokhara,800000
+35,60000,7,720,Self-employed,Kathmandu,1200000
+28,35000,3,680,Salaried,Bhaktapur,500000
+40,80000,10,750,Self-employed,Kathmandu,2000000
+45,90000,12,780,Salaried,Pokhara,2500000
+50,,15,800,Self-employed,Kathmandu,3000000
+32,48000,5,,Salaried,Bhaktapur,900000
+38,70000,8,740,Self-employed,Pokhara,1500000
+29,42000,4,690,Salaried,Kathmandu,700000
